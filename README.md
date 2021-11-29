@@ -1,2 +1,2 @@
 # GoldenSourceTradingPlatform
-![This is an image](../images/base-octocat.svg)
+![This is an image](../images/home1.gif)

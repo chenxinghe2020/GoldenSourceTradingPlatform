@@ -1,7 +1,11 @@
 # GoldenSourceTradingPlatform
 This is a crypto trading platform that allows users to trade cryptocurrencies, for example, BTC,ETH,DOGE and so on. 
 ![This is an image](/images/home1.gif)
-##Home
+
+
+## Home
 ![home image](/images/home.gif)
-##kline
+
+
+## kline
 ![kline image](/images/kline.gif)
